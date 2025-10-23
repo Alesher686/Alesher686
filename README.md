@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Codewars](https://www.codewars.com/users/AlexandrSherstnev/badges/small)
 
-![Snake animation](https://github.com/thepiyushmalhotra/Alesher686/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Alesher686/Alesher686/blob/output/github-contribution-grid-snake.svg)
