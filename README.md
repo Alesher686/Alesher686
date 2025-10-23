@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Codewars](https://www.codewars.com/users/AlexandrSherstnev/badges/small)
 
-https://www.codewars.com/users/AlexandrSherstnev/badges/small
